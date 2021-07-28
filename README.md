@@ -14,5 +14,5 @@
 <br>
 <a href="https://github.com/White-SinSay/UWC/blob/main/images/relay.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/relay.png" width="90" height="180"></a>
 <a href="https://github.com/White-SinSay/UWC/blob/main/images/relay_pcb.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/relay_pcb.png" width="90" height="180"></a>
-<a href="https://github.com/White-SinSay/UWC/blob/main/images/relay_3d.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/relay_3d.png" width="90" height="180"></a>
+<a href="https://github.com/White-SinSay/UWC/blob/main/images/relay_3d.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/relay_3d.png" width="90" height="220"></a>
 
