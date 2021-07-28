@@ -21,3 +21,8 @@
 <a href="https://github.com/White-SinSay/UWC/blob/main/images/relay2.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/relay2.png" width="90" height="180"></a>
 <a href="https://github.com/White-SinSay/UWC/blob/main/images/relay2_pcb.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/relay2_pcb.png" width="90" height="180"></a>
 <a href="https://github.com/White-SinSay/UWC/blob/main/images/relay2_3d.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/relay2_3d.png" width="120" height="180"></a>
+<h3>3- Модуль c мосфетом</h3>
+<br>
+<a href="https://github.com/White-SinSay/UWC/blob/main/images/mosfet.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/mosfet.png" width="90" height="180"></a>
+<a href="https://github.com/White-SinSay/UWC/blob/main/images/mosfet_pcb.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/mosfet_pcb.png" width="90" height="180"></a>
+<a href="https://github.com/White-SinSay/UWC/blob/main/images/mosfet_3d.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/mosfet_3d.png" width="120" height="180"></a>
