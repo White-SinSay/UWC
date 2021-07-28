@@ -37,3 +37,9 @@
 б) на данном модуле есть есть 3 вход-выхода<br>
 <br>
 <a href="https://github.com/White-SinSay/UWC/blob/main/images/sensor-123.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/sensor-123.png" width="90" height="180"></a>
+<a href="https://github.com/White-SinSay/UWC/blob/main/images/sensor-1-3v.png><img src="https://github.com/White-SinSay/UWC/blob/main/images/sensor-1-3v.png" width="90" height="180"></a>
+<a href="https://github.com/White-SinSay/UWC/blob/main/images/sensor-1-5v.png><img src="https://github.com/White-SinSay/UWC/blob/main/images/sensor-1-5v.png" width="90" height="180"></a>
+<a href="https://github.com/White-SinSay/UWC/blob/main/images/sensor-1-pullup.png><img src="https://github.com/White-SinSay/UWC/blob/main/images/sensor-1-pullup.png" width="90" height="180"></a>
+<a href="https://github.com/White-SinSay/UWC/blob/main/images/sensor-2-pulldown.png><img src="https://github.com/White-SinSay/UWC/blob/main/images/sensor-2-pulldown.png" width="90" height="180"></a>
+<a href="https://github.com/White-SinSay/UWC/blob/main/images/sensor-2-pullup.png><img src="https://github.com/White-SinSay/UWC/blob/main/images/sensor-2-pullup.png" width="90" height="180"></a>
+<a href="https://github.com/White-SinSay/UWC/blob/main/images/sensor-3.png><img src="https://github.com/White-SinSay/UWC/blob/main/images/sensor-3.png" width="90" height="180"></a>
