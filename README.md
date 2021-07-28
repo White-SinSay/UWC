@@ -36,4 +36,4 @@
 а) Подключение возможно только одного датчика или сенсора. Подключить 2 или более нельзя (за исключением некоторых, таких как ds18b20)<br>
 б) на данном модуле есть есть 3 вход-выхода<br>
 <br>
-<a href="https://github.com/White-SinSay/UWC/blob/main/images/sensor-123.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/sensor-123.png" width="120" height="180"></a>
+<a href="https://github.com/White-SinSay/UWC/blob/main/images/sensor-123.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/sensor-123.png" width="90" height="180"></a>
