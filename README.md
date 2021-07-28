@@ -26,3 +26,13 @@
 <a href="https://github.com/White-SinSay/UWC/blob/main/images/mosfet.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/mosfet.png" width="90" height="180"></a>
 <a href="https://github.com/White-SinSay/UWC/blob/main/images/mosfet_pcb.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/mosfet_pcb.png" width="90" height="180"></a>
 <a href="https://github.com/White-SinSay/UWC/blob/main/images/mosfet_3d.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/mosfet_3d.png" width="120" height="180"></a>
+<h3>4- Модуль для подключение датчиков и сенсоров</h3>
+<br>
+<a href="https://github.com/White-SinSay/UWC/blob/main/images/sensor.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/sensor.png" width="90" height="180"></a>
+<a href="https://github.com/White-SinSay/UWC/blob/main/images/sensor_pcb.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/sensor_pcb.png" width="90" height="180"></a>
+<a href="https://github.com/White-SinSay/UWC/blob/main/images/sensor_3d.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/sensor_3d.png" width="120" height="180"></a>
+<br>
+А вот тут есть что немного пояснить
+а) Подключение возможно только одного датчика или сенсора. Подключить 2 или более нельзя (за исключением некоторых, таких как ds18b20)
+б) на данном модуле есть есть 3 вход-выхода
+
