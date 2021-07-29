@@ -37,9 +37,28 @@
 б) на данном модуле есть есть 3 вход-выхода<br>
 <br>
 <a href="https://github.com/White-SinSay/UWC/blob/main/images/sensor-123.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/sensor-123.png" width="90" height="180"></a>
+<br>
+Разберем первый вход
+<br>
+Если датчик питаеться от 3в то необходимо установить перемычку как на рисунке (одновременно перемычку на 3в и 5в устанавливать нельзя)
 <a href="https://github.com/White-SinSay/UWC/blob/main/images/sensor-1-3v.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/sensor-1-3v.png" width="90" height="180"></a>
+<br>
+Если датчик питаеться от 5в то необходимо установить перемычку как на рисунке (одновременно перемычку на 3в и 5в устанавливать нельзя)
 <a href="https://github.com/White-SinSay/UWC/blob/main/images/sensor-1-5v.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/sensor-1-5v.png" width="90" height="180"></a>
+<br>
+Если для датчика необходима подтяжка к + питания, то установити перемычку как на рисунке ниже
 <a href="https://github.com/White-SinSay/UWC/blob/main/images/sensor-1-pullup.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/sensor-1-pullup.png" width="90" height="180"></a>
+<br>
+Разберем второй вход
+<br>
+К данному входу можно подключать кнопки и герконы. Если требуеться PullDOWN то установите перемычки как на рисунке
 <a href="https://github.com/White-SinSay/UWC/blob/main/images/sensor-2-pulldown.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/sensor-2-pulldown.png" width="90" height="180"></a>
+<br>
+К данному входу можно подключать кнопки и герконы. Если требуеться PullUP то установите перемычки как на рисунке
 <a href="https://github.com/White-SinSay/UWC/blob/main/images/sensor-2-pullup.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/sensor-2-pullup.png" width="90" height="180"></a>
+<br>
+Разберем третий вход.
+<br>
+Тут все просто. Для его использования необходимо демонтировать все перемычки. И установить только одну, как на рисунке
+<br>
 <a href="https://github.com/White-SinSay/UWC/blob/main/images/sensor-3.png"><img src="https://github.com/White-SinSay/UWC/blob/main/images/sensor-3.png" width="90" height="180"></a>
